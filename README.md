@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StormRens
 - 👀 I’m interested in Software engineering, as well as machine learning or anything of those natures.
-- 🌱 I’m currently learning Computer Science at the University of Central Florida.
-- 💞️ I’m looking to collaborate on any programs or teams that are willing to let me in there team.
+- 🌱 I’m currently Studying Computer Science at the University of Central Florida.
+- 💞️ I’m looking to collaborate on any programs or teams that are willing to give me a chance.
 - 📫 You can reach me via Email @Storm.Rens@gmail.com or linkedin @Storm Rens
 - ⚡ Fun fact: I love to play golf and am a HUGE Destiny 2 fan.
 
